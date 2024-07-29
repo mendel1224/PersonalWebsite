@@ -66,7 +66,7 @@
 			}
 
 	// Main.
-		var	delay = 325,
+		var	delay = 0, // animation delay for buttons
 			locked = false;
 
 		// Methods.
